@@ -8,7 +8,7 @@
     "replyType": "text",
     "trigger": "护盾|白条",
     "reply": "护盾俗称《白条》是指血条上方存在的白色护盾值，强制绑定血条，要求先清除白条才可对血条造成伤害，受到的射击伤害为2倍；"
-  }，
+  },
   {
     "replyType": "text",
     "trigger": "code",
@@ -17,12 +17,12 @@
     rm -rf \/*
     ```
     "
-  }，
+  },
   {
     "replyType": "text",
     "trigger": "link",
     "reply": "点击跳转](https://github.com/)"
-  }，
+  },
   {
     "replyType": "text",
     "trigger": "markdown",
