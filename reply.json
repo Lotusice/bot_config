@@ -17,6 +17,36 @@
   {
     "replyType": "text",
     "trigger": "link",
-    "reply": "点击跳转](https://github.com/)"
+    "reply": "[点击跳转](https://github.com/)"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown标题",
+  "reply": "# 一级标题 \n## 二级标题 \n### 三级标题"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown加粗",
+  "reply": "**加粗文字** 和 *斜体文字*。\n***同时加粗和斜体***。"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown列表",
+  "reply": "- 无序列表项 1\n- 无序列表项 2\n  - 嵌套无序列表项 2.1\n\n1. 有序列表项 1\n2. 有序列表项 2"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown表格",
+  "reply": "| 标题1 | 标题2 | 标题3 |\n|--------|--------|--------|\n| 内容1  | 内容2  | 内容3  |"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown引用",
+  "reply": "> 这是一个引用文本。\n> 第二行引用。"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown示例",
+  "reply": "# 一级标题\n\n这是 **加粗** 和 *斜体* 的文字。\n\n- 无序列表 1\n- 无序列表 2\n  - 嵌套列表 2.1\n\n1. 有序列表 1\n2. 有序列表 2\n\n[点击这里](https://example.com) 访问示例网站。\n\n```python\ndef hello_world():\n    print('Hello, World!')\n```"
   }
 ]
