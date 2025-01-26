@@ -12,7 +12,8 @@
   {
     "replyType": "text",
     "trigger": "code",
-    "reply": "
+    "reply": 
+    "
     ```shell
     rm -rf \/*
     ```
