@@ -27,12 +27,12 @@
   {
   "replyType": "text",
   "trigger": "markdown加粗",
-  "reply": "*加粗 \*文字*"
+  "reply": "*加粗 文字*"
   },
   {
   "replyType": "text",
   "trigger": "markdown斜体",
-  "reply": "_斜体 \*文字_"
+  "reply": "_斜体 文字_"
   },
   {
   "replyType": "text",
