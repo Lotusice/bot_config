@@ -89,6 +89,10 @@
   "trigger": "后勤词条|金色后勤",
   "reply": "AgACAgEAAxkBAAIC-meXMjwz9c-csLtCYUZNdK0p0OSzAAIBrjEbNtS5RHe8Zp_BjrXwAQADAgADcwADNgQ"
   },
+  "replyType": "photo",
+  "trigger": "活动攻略|活动商店",
+  "reply": "AgACAgEAAxkBAAIDA2eXOzX1f9nq6FxM2URWgRunlppvAAICrjEbNtS5RHDVGMBERet-AQADAgADcwADNgQ"
+  },
   {
   "replyType": "sticker",
   "trigger": "爱你",
