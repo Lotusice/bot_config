@@ -22,17 +22,17 @@
   {
     "replyType": "text",
     "trigger": "mod",
-    "reply": "[>>NexusMods<<](https:\/\/www.nexusmods.com\/snowbreakcontainmentzone?tab=latest)"
+    "reply": "[NexusMods](https:\/\/www.nexusmods.com\/snowbreakcontainmentzone?tab=latest)"
   },
   {
     "replyType": "text",
     "trigger": "时间线",
-    "reply": "[>>活动时间线<<](https:\/\/snowbreak.notion.site\/185d3624f05880cba306f5a8459e52c2)"
+    "reply": "[活动时间线](https:\/\/snowbreak.notion.site\/185d3624f05880cba306f5a8459e52c2)"
   },
   {
     "replyType": "text",
     "trigger": "兑换码",
-    "reply": "[>>兑换码<<](https:\/\/t.me\/SnowbreakTopic\/2395)"
+    "reply": "[兑换码](https:\/\/t.me\/SnowbreakTopic\/2395)"
   },
   {
   "replyType": "text",
