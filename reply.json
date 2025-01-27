@@ -11,33 +11,33 @@
   },
   {
     "replyType": "text",
-    "trigger": "code",
+    "trigger": "markdowncode",
     "reply": "\n```shell\nrm -rf /*\n```"
   },
   {
     "replyType": "text",
-    "trigger": "link",
-    "reply": "[点击跳转](https://github.com/)"
+    "trigger": "markdownlink",
+    "reply": "[点击跳转](https:\/\/github.com\/)"
   },
   {
   "replyType": "text",
-  "trigger": "markdown标题",
-  "reply": "# 一级标题 \n## 二级标题 \n### 三级标题"
+  "trigger": "markdown下划线",
+  "reply": "__下划线__"
   },
   {
   "replyType": "text",
   "trigger": "markdown加粗",
-  "reply": "**加粗文字** 和 *斜体文字*。\n***同时加粗和斜体***。"
+  "reply": "*加粗 \*文字*"
   },
   {
   "replyType": "text",
-  "trigger": "markdown列表",
-  "reply": "- 无序列表项 1\n- 无序列表项 2\n  - 嵌套无序列表项 2.1\n\n1. 有序列表项 1\n2. 有序列表项 2"
+  "trigger": "markdown斜体",
+  "reply": "_斜体 \*文字_"
   },
   {
   "replyType": "text",
-  "trigger": "markdown表格",
-  "reply": "| 标题1 | 标题2 | 标题3 |\n|--------|--------|--------|\n| 内容1  | 内容2  | 内容3  |"
+  "trigger": "markdown删除线",
+  "reply": "~删除线~"
   },
   {
   "replyType": "text",
@@ -46,7 +46,22 @@
   },
   {
   "replyType": "text",
-  "trigger": "markdown示例",
-  "reply": "# 一级标题\n\n这是 **加粗** 和 *斜体* 的文字。\n\n- 无序列表 1\n- 无序列表 2\n  - 嵌套列表 2.1\n\n1. 有序列表 1\n2. 有序列表 2\n\n[点击这里](https://example.com) 访问示例网站。\n\n```python\ndef hello_world():\n    print('Hello, World!')\n```"
-  }
+  "trigger": "markdown用户",
+  "reply": "[内联用户提及](tg:\/\/user\?id=123456789)"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown表情",
+  "reply": "![👍](tg:\/\/emoji\?id=5368324170671202286)"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown等宽",
+  "reply": "`等宽`"
+  },
+  {
+  "replyType": "text",
+  "trigger": "markdown剧透",
+  "reply": "\|\|隐藏内容\|\|"
+  },
 ]
