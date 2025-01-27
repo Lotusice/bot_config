@@ -63,5 +63,15 @@
   "replyType": "text",
   "trigger": "markdown剧透",
   "reply": "||隐藏内容||"
+  },
+  {
+  "replyType": "photo",
+  "trigger": "埃达",
+  "reply": "AgACAgEAAxkBAAIC6WeW4AsCb0WXPO7S4lWAN-Y-SY6JAALqrTEbNtS5RFVaYvMBSqn-AQADAgADcwADNgQ"
+  },
+  {
+  "replyType": "sticker",
+  "trigger": "爱你",
+  "reply": "CAACAgEAAxkBAAIC52eW38aC2VdI61vFT9vaJa8iUH5EAAIyBAACpUkhR867o5K-Y2xTNgQ"
   }
 ]
