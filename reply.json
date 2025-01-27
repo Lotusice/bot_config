@@ -1,12 +1,12 @@
 [
   {
     "replyType": "text",
-    "trigger": "护甲|黄条",
+    "trigger": "护甲|黄条|黄盾",
     "reply": "护甲俗称《黄条》是指具有黄色耐久条的单位，独立于血条外（如果有的话），并不强制要求清除，可绕过黄条直接对血条造成伤害；"
   },
   {
     "replyType": "text",
-    "trigger": "护盾|白条",
+    "trigger": "护盾|白条|白盾",
     "reply": "护盾俗称《白条》是指血条上方存在的白色护盾值，强制绑定血条，要求先清除白条才可对血条造成伤害，受到的射击伤害为2倍；"
   },
   {
@@ -18,6 +18,21 @@
     "replyType": "text",
     "trigger": "markdownlink",
     "reply": "[点击跳转](https:\/\/github.com\/)"
+  },
+  {
+    "replyType": "text",
+    "trigger": "mod",
+    "reply": "[>>NexusMods<<](https:\/\/www.nexusmods.com\/snowbreakcontainmentzone?tab=latest)"
+  },
+  {
+    "replyType": "text",
+    "trigger": "时间线",
+    "reply": "[>>活动时间线<<](https:\/\/snowbreak.notion.site\/185d3624f05880cba306f5a8459e52c2)"
+  },
+  {
+    "replyType": "text",
+    "trigger": "兑换码",
+    "reply": "[>>兑换码<<](https:\/\/t.me\/SnowbreakTopic\/2395)"
   },
   {
   "replyType": "text",
@@ -68,6 +83,11 @@
   "replyType": "photo",
   "trigger": "埃达",
   "reply": "AgACAgEAAxkBAAIC6WeW4AsCb0WXPO7S4lWAN-Y-SY6JAALqrTEbNtS5RFVaYvMBSqn-AQADAgADcwADNgQ"
+  },
+  {
+  "replyType": "photo",
+  "trigger": "后勤词条|金色后勤",
+  "reply": "AgACAgEAAxkBAAIC-meXMjwz9c-csLtCYUZNdK0p0OSzAAIBrjEbNtS5RHe8Zp_BjrXwAQADAgADcwADNgQ"
   },
   {
   "replyType": "sticker",
