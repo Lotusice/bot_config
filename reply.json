@@ -26,7 +26,7 @@
   },
   {
     "replyType": "text",
-    "trigger": "时间线|活动日历|日历",
+    "trigger": "时间线|活动|日历",
     "reply": "[活动时间线](https:\/\/snowbreak.notion.site\/185d3624f05880cba306f5a8459e52c2)"
   },
   {
