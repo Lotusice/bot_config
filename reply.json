@@ -27,12 +27,12 @@
   {
     "replyType": "text",
     "trigger": "时间线|活动|日历",
-    "reply": "[活动时间线](https:\/\/snowbreak.notion.site\/185d3624f05880cba306f5a8459e52c2)"
+    "reply": "[活动时间线](https:\/\/snowbreak.notion.site\/event)"
   },
   {
     "replyType": "text",
     "trigger": "兑换码",
-    "reply": "[点击这里获取兑换码](https:\/\/t.me\/SnowbreakTopic\/2395)"
+    "reply": "[点击这里获取兑换码](https:\/\/snowbreak.notion.site\/codes)"
   },
   {
   "replyType": "text",
