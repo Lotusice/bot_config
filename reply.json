@@ -103,5 +103,10 @@
   "replyType": "text",
   "trigger": "Ciallo想当频道主",
   "reply": "绝地潜兵全军报道——Ciallo~，你已正式晋升为频道总司令！在这硝烟渐起的频道战场，你将率领我们攻无不克，战无不胜。记住，每个指令都关乎生死；而今天，我们仅以笑谈庆功，恭喜你的英勇上位！\n\n前路虽险，但信念坚如磐石，今后频道风云，由你主宰！"
+  },
+  {
+  "replyType": "voice",
+  "trigger": "早|早上好",
+  "reply": "AwACAgIAAxkBAAIFWGhUqAHmeZch3ywD-vKZtkhsmAZTAAIKbgACvUWpSqTcEz3mHgL0NgQ"
   }
 ]
