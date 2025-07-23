@@ -106,7 +106,7 @@
   },
   {
   "replyType": "voice",
-  "trigger": "早|早上好|早呀|上午好|早安",
+  "trigger": "早|早上好|早呀|上午好|早安|早上好！",
   "reply": "AwACAgIAAxkBAAIFWGhUqAHmeZch3ywD-vKZtkhsmAZTAAIKbgACvUWpSqTcEz3mHgL0NgQ"
   }
 ]
